@@ -1,0 +1,147 @@
+[
+  {
+    "question": "Which is not part of system testing?",
+    "option 1": "Regression Testing",
+    "option 2": "Sanity Testing",
+    "option 3": "Load Testing",
+    "option 4": "Unit Testing",
+    "answerkey": 4
+  },
+  {
+    "question": "Which is whitebox testing technique?",
+    "option 1": "Equivalent Partitioning",
+    "option 2": "Boundary value testing",
+    "option 3": "Decision table testing",
+    "option 4": "Adhoc Testing",
+    "answerkey": 3
+  },
+  {
+    "question": "What is the purpose of black box testing?",
+    "option 1": "To test the internal structure and implementation details of the software.",
+    "option 2": "To test the user interface and user experience of the software.",
+    "option 3": "To test the performance and scalability of the software.",
+    "option 4": "To test the functionality of the software without considering its internal workings.",
+    "answerkey": 4
+  },
+  {
+    "question": "Which testing technique is used to verify if the software behaves correctly after a modification?",
+    "option 1": "Regression testing",
+    "option 2": "Integration testing",
+    "option 3": "Alpha testing",
+    "option 4": "Stress testing",
+    "answerkey": 1
+  },
+  {
+    "question": "What is the goal of acceptance testing?",
+    "option 1": "To ensure the software meets the requirements of the end users.",
+    "option 2": "To test the software in a controlled environment.",
+    "option 3": "To verify the software's performance under extreme conditions.",
+    "option 4": "To identify and fix defects in the software.",
+    "answerkey": 1
+  },
+  {
+    "question": "Which testing technique focuses on finding defects that are likely to occur due to changes in software configuration or environment?",
+    "option 1": "Regression testing",
+    "option 2": "Load testing",
+    "option 3": "Smoke testing",
+    "option 4": "Adhoc testing",
+    "answerkey": 1
+  },
+  {
+    "question": "What is the purpose of usability testing?",
+    "option 1": "To evaluate the software's ability to handle large volumes of data.",
+    "option 2": "To test the software's compatibility with different operating systems.",
+    "option 3": "To assess the software's ease of use and user-friendliness.",
+    "option 4": "To validate the software's adherence to specified requirements.",
+    "answerkey": 3
+  },
+  {
+    "question": "Which testing technique focuses on finding defects by applying random inputs and monitoring the system's response?",
+    "option 1": "Boundary value testing",
+    "option 2": "Equivalence partitioning",
+    "option 3": "Adhoc testing",
+    "option 4": "Decision table testing",
+    "answerkey": 3
+  },
+  {
+    "question": "What is the purpose of load testing?",
+    "option 1": "To test the software's ability to handle peak loads and stress conditions.",
+    "option 2": "To verify the software's compliance with industry standards.",
+    "option 3": "To assess the software's ability to recover from system failures.",
+    "option 4": "To validate the software's performance under normal operating conditions.",
+    "answerkey": 1
+  },
+  {
+    "question": "Which testing technique is also known as 'Monkey testing'?",
+    "option 1": "Adhoc testing",
+    "option 2": "Sanity testing",
+    "option 3": "Random testing",
+    "option 4": "Exploratory testing",
+    "answerkey": 3
+  },
+  {
+    "question": "What is the purpose of test case prioritization?",
+    "option 1": "To determine the order in which test cases should be executed.",
+    "option 2": "To identify and fix defects in the software.",
+    "option 3": "To assess the software's ability to handle peak loads and stress conditions.",
+    "option 4": "To evaluate the software's ability to handle large volumes of data.",
+    "answerkey": 1
+  },
+  {
+    "question": "Which testing technique focuses on finding defects by testing individual units or components of the software?",
+    "option 1": "Regression testing",
+    "option 2": "Integration testing",
+    "option 3": "Unit testing",
+    "option 4": "System testing",
+    "answerkey": 3
+  },
+  {
+    "question": "What is the purpose of configuration testing?",
+    "option 1": "To test the software's compatibility with different hardware configurations.",
+    "option 2": "To evaluate the software's ability to handle different types of data.",
+    "option 3": "To validate the software's performance under normal operating conditions.",
+    "option 4": "To identify and fix defects in the software.",
+    "answerkey": 1
+  },
+  {
+    "question": "Which testing technique is used to verify if the software functions correctly after integrating different modules or components?",
+    "option 1": "Regression testing",
+    "option 2": "Integration testing",
+    "option 3": "Alpha testing",
+    "option 4": "Stress testing",
+    "answerkey": 2
+  },
+  {
+    "question": "What is the purpose of test data management?",
+    "option 1": "To ensure the software meets the requirements of the end users.",
+    "option 2": "To generate random test inputs for the software.",
+    "option 3": "To manage the test environment and test infrastructure.",
+    "option 4": "To ensure the availability and quality of test data.",
+    "answerkey": 4
+  },
+  {
+    "question": "Which testing technique focuses on finding defects by testing the software against its specified requirements?",
+    "option 1": "Regression testing",
+    "option 2": "Functional testing",
+    "option 3": "Performance testing",
+    "option 4": "Security testing",
+    "answerkey": 2
+  },
+  {
+    "question": "What is the purpose of exploratory testing?",
+    "option 1": "To evaluate the software's ability to handle unexpected or abnormal inputs.",
+    "option 2": "To identify and fix defects in the software.",
+    "option 3": "To validate the software's adherence to specified requirements.",
+    "option 4": "To assess the software's ease of use and user-friendliness.",
+    "answerkey": 1
+  },
+  {
+    "question": "Which testing technique focuses on finding defects by testing the software's ability to recover from failures or disruptions?",
+    "option 1": "Regression testing",
+    "option 2": "Recovery testing",
+    "option 3": "Usability testing",
+    "option 4": "Compatibility testing",
+    "answerkey": 2
+  }
+
+]
